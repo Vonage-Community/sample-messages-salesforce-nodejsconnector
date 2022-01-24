@@ -1,0 +1,24 @@
+{
+  "name": "vonage4salesforce-integration",
+  "version": "1.0.0",
+  "description": "Vonage4Salesforce - inbound webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc-marchaldecorny/vonage4salesforce-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc-marchaldecorny/vonage4salesforce-integration/issues"
+  },
+  "homepage": "https://github.com/marc-marchaldecorny/vonage4salesforce-integration#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsforce": "^1.10.1"
+  }
+}
