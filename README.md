@@ -45,7 +45,7 @@ chose your API key in the left menu
 create an application for the integration: https://dashboard.nexmo.com/applications
 configure the Call back URLs under the application as follows:
 - INBOUND URL : https://yourhostingservice/webhook/inbound
-- EVENT URL : https://yourhostingservice/webhook/inbound
+- EVENT URL : https://yourhostingservice/webhook/event
 
 this will also work for the sandbox !
 https://dashboard.nexmo.com/messages/sandbox
